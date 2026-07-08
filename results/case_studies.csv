@@ -1,0 +1,5 @@
+case_type,task_id,task_title,category,baseline_visible_only,visible_hidden,full_framework,observed_diagnosis,interpretation
+visible_overfit,T01,factorial value (introductory example),Loops,accepted,rejected,rejected,hidden_generalization_failure,A submission hard-codes or memorizes public examples and returns an arbitrary fallback for unseen inputs.
+boundary_error,T01,factorial value (introductory example),Loops,accepted,rejected,rejected,runtime_error,"A submission is correct for ordinary inputs but fails a boundary input such as zero, empty sequence, or one-element list."
+constraint_violation,T01,factorial value (introductory example),Loops,accepted,accepted,rejected,structural_constraint_violation,A submission produces correct outputs but violates the intended structural requirement by using a prohibited shortcut.
+nontermination,T01,factorial value (introductory example),Loops,rejected,rejected,rejected,nontermination_pattern,A submission contains a deterministic nontermination pattern that must be handled by pre-checks or timeout mechanisms.

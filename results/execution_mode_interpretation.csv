@@ -1,0 +1,4 @@
+mode,implemented_in_package,timeout,isolation,purpose,manuscript_interpretation
+internal deterministic loop,yes,no,same Python process,benchmark-level component evaluation and internal runtime scalability,"framework-level processing efficiency, not a production sandbox result"
+subprocess timeout protocol,"yes, protocol demo","yes, 1 second in demo",separate Python process,demonstrate how nontermination/runtime failures can be bounded,deployment-oriented safety extension; not used to replace all internal benchmark measurements
+container sandbox,no,recommended,OS/container-level,future production deployment for arbitrary untrusted submissions,future work and practical deployment requirement

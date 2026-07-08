@@ -1,0 +1,31 @@
+task_id,title,category,pattern,visible_tests,hidden_tests,structural_rule
+T01,factorial value (introductory example),Loops,factorial,2,3,no_math_prod
+T02,summation from 1 to n (introductory example),Loops,sum_to_n,2,3,no_sum_builtin
+T03,count even values (introductory example),Lists,count_even,2,3,no_sum_builtin
+T04,maximum list value (introductory example),Lists,max_list,2,3,no_max_builtin
+T05,number of unique values (introductory example),Lists,unique_count,2,3,no_set_builtin
+T06,word frequency dictionary (introductory example),Dictionaries,word_count,2,3,no_counter_class
+T07,count vowels in a string (introductory example),Strings,count_vowels,2,3,no_sum_builtin
+T08,normalized palindrome check (introductory example),Strings,normalized_palindrome,2,3,no_reversed_builtin
+T09,numeric score to letter grade (introductory example),Conditional logic,grade_letter,2,3,no_conditional_expression
+T10,average score from row dictionaries (introductory example),File/CSV-style data,csv_average,2,3,no_sum_builtin
+T11,factorial value (practice variant),Loops,factorial,2,3,no_math_prod
+T12,summation from 1 to n (practice variant),Loops,sum_to_n,2,3,no_sum_builtin
+T13,count even values (practice variant),Lists,count_even,2,3,no_sum_builtin
+T14,maximum list value (practice variant),Lists,max_list,2,3,no_max_builtin
+T15,number of unique values (practice variant),Lists,unique_count,2,3,no_set_builtin
+T16,word frequency dictionary (practice variant),Dictionaries,word_count,2,3,no_counter_class
+T17,count vowels in a string (practice variant),Strings,count_vowels,2,3,no_sum_builtin
+T18,normalized palindrome check (practice variant),Strings,normalized_palindrome,2,3,no_reversed_builtin
+T19,numeric score to letter grade (practice variant),Conditional logic,grade_letter,2,3,no_conditional_expression
+T20,average score from row dictionaries (practice variant),File/CSV-style data,csv_average,2,3,no_sum_builtin
+T21,factorial value (assessment variant),Loops,factorial,2,3,no_math_prod
+T22,summation from 1 to n (assessment variant),Loops,sum_to_n,2,3,no_sum_builtin
+T23,count even values (assessment variant),Lists,count_even,2,3,no_sum_builtin
+T24,maximum list value (assessment variant),Lists,max_list,2,3,no_max_builtin
+T25,number of unique values (assessment variant),Lists,unique_count,2,3,no_set_builtin
+T26,word frequency dictionary (assessment variant),Dictionaries,word_count,2,3,no_counter_class
+T27,count vowels in a string (assessment variant),Strings,count_vowels,2,3,no_sum_builtin
+T28,normalized palindrome check (assessment variant),Strings,normalized_palindrome,2,3,no_reversed_builtin
+T29,numeric score to letter grade (assessment variant),Conditional logic,grade_letter,2,3,no_conditional_expression
+T30,average score from row dictionaries (assessment variant),File/CSV-style data,csv_average,2,3,no_sum_builtin

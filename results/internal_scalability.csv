@@ -1,0 +1,6 @@
+workload,elapsed_seconds,avg_ms_per_submission,accepted_count,execution_mode
+100,0.005887200000870507,0.05887200000870507,20,single-process internal deterministic loop
+300,0.017170400002214592,0.05723466667404864,60,single-process internal deterministic loop
+1000,0.05728190000081668,0.05728190000081668,200,single-process internal deterministic loop
+3000,0.17135939999934635,0.05711979999978212,600,single-process internal deterministic loop
+5000,0.2839299999977811,0.056785999999556226,1000,single-process internal deterministic loop

@@ -1,0 +1,11 @@
+variant,intended_role,visible_expected,hidden_expected,ast_expected
+correct_reference,canonical acceptable implementation,pass,pass,pass
+correct_alternative,alternative acceptable implementation,pass,pass,pass
+visible_overfit,passes only public examples,pass,fail,pass
+boundary_error,fails edge or boundary input,pass,fail or runtime,pass
+wrong_logic,incorrect transformation,fail,not needed,pass
+constraint_violation,behaviorally correct but structurally invalid,pass,pass,fail
+syntax_error,parser-level failure,fail,not run,not run
+runtime_error,execution failure,runtime error,not run,not central
+incomplete,missing or incomplete implementation,fail,not run,usually pass
+nontermination,nonterminating pattern,detected before internal execution,not run,not central

@@ -1,0 +1,7 @@
+category,tasks,patterns,visible_tests_total,hidden_tests_total
+Conditional logic,3,grade_letter,6,9
+Dictionaries,3,word_count,6,9
+File/CSV-style data,3,csv_average,6,9
+Lists,9,"count_even, max_list, unique_count",18,27
+Loops,6,"factorial, sum_to_n",12,18
+Strings,6,"count_vowels, normalized_palindrome",12,18

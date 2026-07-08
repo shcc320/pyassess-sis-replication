@@ -1,0 +1,2 @@
+total_elapsed_seconds,python_runtime_observed,platform_observed,note
+6.233249299999443,3.11.5,Windows-10-10.0.19045-SP0,Manuscript environment is recorded in results/manuscript_environment_windows.csv based on the user's confirmed machine.

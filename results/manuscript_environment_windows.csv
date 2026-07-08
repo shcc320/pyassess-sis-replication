@@ -1,0 +1,2 @@
+operating_system,machine,cpu,cores_threads,ram,python_version,execution_mode,benchmark_size,holdout_split
+"Microsoft Windows 10 Pro 10.0.19045, 64-bit",ASUS System Product Name,13th Gen Intel(R) Core(TM) i7-13700KF,16 cores / 24 logical processors,34.16 GB installed (31.81 GiB usable),"Python 3.11.5 (Anaconda, 64-bit)",CPU-only; single-process internal evaluation; separate subprocess timeout demo,30 tasks; 300 candidate submissions,24 development tasks and 6 holdout tasks

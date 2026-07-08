@@ -1,0 +1,11 @@
+primary_label,observed_diagnosis,count
+accepted,accepted,60
+boundary_error,hidden_generalization_failure,26
+boundary_error,runtime_error,4
+constraint_violation,structural_constraint_violation,30
+incomplete,visible_output_mismatch,30
+nontermination,nontermination_pattern,30
+runtime_error,runtime_error,30
+syntax_error,syntax_error,30
+visible_overfit,hidden_generalization_failure,30
+wrong_logic,visible_output_mismatch,30

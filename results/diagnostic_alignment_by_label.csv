@@ -1,0 +1,10 @@
+primary_label,n,aligned,alignment_rate,observed_diagnoses
+accepted,60,60,1.0,accepted:60
+boundary_error,30,30,1.0,hidden_generalization_failure:26; runtime_error:4
+constraint_violation,30,30,1.0,structural_constraint_violation:30
+incomplete,30,30,1.0,visible_output_mismatch:30
+nontermination,30,30,1.0,nontermination_pattern:30
+runtime_error,30,30,1.0,runtime_error:30
+syntax_error,30,30,1.0,syntax_error:30
+visible_overfit,30,30,1.0,hidden_generalization_failure:30
+wrong_logic,30,30,1.0,visible_output_mismatch:30

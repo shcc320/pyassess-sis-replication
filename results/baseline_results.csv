@@ -1,0 +1,10 @@
+n,true_accept,true_reject,false_accept,false_reject,accuracy,false_acceptance_rate,false_rejection_rate,split,method
+300,60,150,90,0,0.7,0.375,0.0,all,visible_only
+300,60,210,30,0,0.9,0.125,0.0,all,visible_plus_hidden
+300,60,240,0,0,1.0,0.0,0.0,all,visible_hidden_ast_full
+240,48,120,72,0,0.7,0.375,0.0,development,visible_only
+240,48,168,24,0,0.9,0.125,0.0,development,visible_plus_hidden
+240,48,192,0,0,1.0,0.0,0.0,development,visible_hidden_ast_full
+60,12,30,18,0,0.7,0.375,0.0,holdout,visible_only
+60,12,42,6,0,0.9,0.125,0.0,holdout,visible_plus_hidden
+60,12,48,0,0,1.0,0.0,0.0,holdout,visible_hidden_ast_full
